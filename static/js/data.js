@@ -6,7 +6,7 @@ var data = [{
     shape: "circle",
     durationMinutes: "5 mins.",
     comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
-  },
+  }, 
   {
     datetime: "1/1/2010",
     city: "bonita",
@@ -978,7 +978,7 @@ var data = [{
     shape: "triangle",
     durationMinutes: "30 seconds",
     comments: "Blinking lights on a rectanglar shaped object spotted in the sky in White Oak&#44 PA."
-  },
+  }, 
   {
     datetime: "1/13/2010",
     city: "ackerman",

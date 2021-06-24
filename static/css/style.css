@@ -10,6 +10,13 @@ body {
   margin: 0;
 }
 
+#ja {
+  /*I am a place holder */
+}
+
+#no-search {
+  /* Just another place holder */
+}
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
